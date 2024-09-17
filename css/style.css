@@ -56,6 +56,7 @@ font-size: 50px;
   .check-list {
     list-style-type: none;
     display: inline;
+    padding: 20px 0;
   }
 
 
@@ -80,3 +81,69 @@ font-size: 50px;
     color: white;
 
   }
+
+
+  .button-list2 {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#9a76e2;
+    color: white;
+  }
+
+
+.button-list3 {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#69c5a8;
+    color: white;
+}
+
+.button-list4 {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#f29f3a;
+    color: white;
+}
+
+.button-list5 {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#d5679e;
+    color: white;
+}
+
+.button-list6 {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#afc72a;
+    color: white;
+}
+
+
+
+  .list-priority {
+
+  }
+
+  
+.circle-item {
+    display: inline-block;
+    color: green;
+    background-color: green;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    vertical-align: middle;     
+}
+  
+.circle-item1 {
+    display: inline-block;
+    color: red;
+    background-color: red;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    vertical-align: middle;  
+}
